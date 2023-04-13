@@ -2,7 +2,7 @@
 
 ## What?
 
-I designed a personal portfolio webpage that showcases my introduction, portfolio projects, skills, and contact information. This project demonstrates my ability to create a visually appealing and responsive portfolio webpage using HTML, CSS, and possibly JavaScript.
+I designed a personal portfolio webpage that showcases some portfolio projects, skills, and contact information. This project demonstrates my ability to create a visually appealing and responsive portfolio webpage using HTML, CSS, and possibly JavaScript.
 
 
 
