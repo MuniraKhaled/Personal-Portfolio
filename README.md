@@ -12,7 +12,7 @@ In this project, I have crafted a personal portfolio webpage, designed to exhibi
 
 ### Live Demo
 A live demonstration of the portfolio webpage's functionality and features is available:
-[Watch the Demo](https://user-images.githubusercontent.com/80950031/231880257-4a1a1aba-aa8a-44dd-80de-6715540d9df9.mov)
+https://user-images.githubusercontent.com/80950031/231880257-4a1a1aba-aa8a-44dd-80de-6715540d9df9.mov
 
 ## Purpose
 The creation of this portfolio webpage was a key component of the responsive web design course. It allowed me to apply my web development skills in a practical project, reinforcing my learning and providing a platform to display my work.
